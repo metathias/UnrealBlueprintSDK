@@ -17,7 +17,7 @@ public:
     */
 
     const FString SdkVersion = "0.0.170710";
-    const FString BuildIdentifier = "jbuild_unrealblueprintsdk_0";
+    const FString BuildIdentifier = "jbuild_unrealblueprintsdk_2";
     const FString VersionString = "UnrealBlueprintSDK-0.0.170710";
 
     // Photon Ap Ids
